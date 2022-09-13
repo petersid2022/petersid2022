@@ -12,5 +12,5 @@
 I'm a FOSS advocate, Electrical Engineering student from Greece, who is very much interested in the *software* side of things.
 I believe in the user's freedom to control their computing environment, to not be spied on or having their data collected without their consent.
 
-This is where I'm going to post all my open source projects. Thanks!
-I document everything that I come across in my software engineering journey, on my blog.
+This is where I'm going to post all my open source projects. 
+I also document everything that I come across in my software engineering journey, on my blog.
