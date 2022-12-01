@@ -3,14 +3,12 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 I'm a FOSS advocate, Electrical Engineering student from Greece, who is very much interested in the *software* side of things.
-I believe in the user's freedom to control their computing environment, to not be spied on or having their data collected without their consent.
-
+I believe in the user's freedom to control their computing, to not be spied on or having their data collected without their consent.
+  
 This is where I'm going to post all my open source projects. 
-I also document everything that I come across in my software engineering journey, on my blog.
