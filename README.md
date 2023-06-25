@@ -1,5 +1,25 @@
 # Hi there! 👋
-I'm Peter Sideris. Welcome to my Github profile!
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=petersid2022&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="petersid2022 stats card" /></p>
+I'm Peter Sideris, an Electrical Engineering student from Greece. Welcome to my Github profile!
 ## 🚀 About Me
-I'm an Electrical Engineering student from Greece with a strong passion for software development. I believe in the user's freedom to control their computing and prioritize privacy, ensuring that their data is not collected without their consent.
+I have a strong passion for software development and enjoy working with new and cutting-edge technologies. I'm particularly interested in exploring the fields of hardware and software engineering, with a focus on embedded systems and low-level programming.
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+</div>
