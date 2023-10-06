@@ -3,7 +3,7 @@ I'm Peter Sideris, an Electrical Engineering student from Greece. Welcome to my 
 ## 🚀 About Me
 I have a strong passion for software development and enjoy working with new and cutting-edge technologies. I'm particularly interested in exploring the fields of hardware and software engineering, with a focus on embedded systems and low-level programming.
 ## ✍️ I also have a blog, I write there sometimes - whatever I happen to find cool.
-[petrside.vercel.app](https://petrside.vercel.app)
+[petrside.gr](https://www.petrside.gr/)
 
 ## Things I love: 
 <div align="left">
@@ -11,11 +11,9 @@ I have a strong passion for software development and enjoy working with new and 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
