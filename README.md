@@ -5,3 +5,5 @@ I have a strong passion for software development and enjoy working with new and 
 
 **I also have a blog, I write there sometimes - whatever I happen to find cool.**
 [petrside.gr](https://www.petrside.gr/)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=petersid2022&show_icons=true&locale=en&layout=compact)
